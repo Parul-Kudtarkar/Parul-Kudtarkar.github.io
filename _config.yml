@@ -111,27 +111,27 @@ author:
   location         : "La Jolla, CA"
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=mJwZw2kAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Parul-Kudtarkar"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/parulkudtarkar"
 
 # Site Footer
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=mJwZw2kAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Parul-Kudtarkar"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-LinkedIn"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/parulkudtarkar"
 
 
 # Reading Files
