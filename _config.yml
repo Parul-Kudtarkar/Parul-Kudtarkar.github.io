@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "Sorting My DNA"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
+name                     : "Sorting My DNA"
 description              : 
 url                      : Parul-Kudtarkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -130,7 +130,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Parul-Kudtarkar"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/parulkudtarkar"
 
 
