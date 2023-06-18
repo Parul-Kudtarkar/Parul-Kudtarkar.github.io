@@ -1,18 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: https://parul-kudtarkar.github.io
   - title: "Publications"
     url: https://parul-kudtarkar.github.io
   - title: "Invited Talks"
     url: https://parul-kudtarkar.github.io
   - title: "Experince"
     url: https://parul-kudtarkar.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Artworks"
+    url: https://parul-kudtarkar.github.io
   # - title: "Sitemap"
   #   url: /sitemap/
