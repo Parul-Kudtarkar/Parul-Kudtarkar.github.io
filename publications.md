@@ -2,4 +2,4 @@
 layout: single
 author_profile: false
 ---
-{% include publications link=true %}
+{% include publications style="mla" link=true %}
