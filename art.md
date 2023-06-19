@@ -7,6 +7,7 @@ gallery:
   - url: /assets/images/Grecian_Dreams.jpeg
     image_path: assets/images/Grecian_Dreams.jpeg
     alt: "Grecian_Dreams.jpeg"
+    image_style: "width: 150%;"
   - url: /assets/images/California_wine.JPG
     image_path: assets/images/California_wine.JPG
     alt: "California_wine"
