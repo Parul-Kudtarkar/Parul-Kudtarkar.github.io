@@ -13,6 +13,7 @@ feature_row0-1:
     url: "https://cmdga.org"
     btn_label: "The Common Metabolic Diseases Genome Atlas"
     btn_class: "btn--primary"
+    image_size: 70%
   - image_path: assets/images/lung.png
     alt: "Deciphering Lung Diseases at Single Cell Resolution"
     title: "Deciphering Lung Diseases at Single Cell Resolution (March 2020 - Present)"
