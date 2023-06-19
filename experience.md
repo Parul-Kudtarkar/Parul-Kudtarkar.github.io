@@ -45,15 +45,6 @@ feature_row0-4:
     btn_class: "btn--primary"
     image_size: 70%
 
-feature_row0-5:    
-  - excerpt: "<ul style='font-size: 1.5em;'><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>"
-
-feature_row0-6:    
-  - excerpt: "<ul style='font-size: 1.5em;'><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>"
-
-feature_row0-7:    
-  - excerpt: "<ul style='font-size: 1.5em;'><li>MBA Certification, Rady School of Management, USA (2019)<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>"
-
 ---
 
 ### Experience
@@ -65,6 +56,6 @@ feature_row0-7:
 
 ### Education
 
-{% include feature_row id="feature_row0-5" type="left" %}
-{% include feature_row id="feature_row0-6" type="left" %}
-{% include feature_row id="feature_row0-7" type="left" %}
+<ul style='font-size: 1.5em;'><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>
+<ul style='font-size: 1.5em;'><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>
+<ul style='font-size: 1.5em;'><li>MBA Certification, Rady School of Management, USA (2019)<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>
