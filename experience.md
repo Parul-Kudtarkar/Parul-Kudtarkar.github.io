@@ -63,9 +63,7 @@ feature_row0-4:
         - AWS
         - Comparative Genomics
         - Genome Alignment
-	- Evolutionary Distance
-	- Reciprocal Smallest Distance Aligorithm
-
+---
 ## Work Experince 
 
 {% include feature_row id="feature_row0-1" type="left" %}
