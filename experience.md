@@ -9,7 +9,7 @@ feature_row0-1:
   - image_path: assets/images/cmdga.png
     alt: "Common Metabolic Diseases"
     title: "Common Metabolic Diseases (June 2017 - Present)"
-    excerpt: "I have spearheaded the development of The Common Metabolic Diseases Genome Atlas, an extensive bioinformatic and software platform. This innovative tool seamlessly links together thousands of genomic datasets, aiming to uncover the fundamental origins of diseases and enhance the efficiency of drug target investigations within the field of metabolic conditions."
+    excerpt: "<span style='font-size: 18px;'>I have spearheaded the development of The Common Metabolic Diseases Genome Atlas, an extensive bioinformatic and software platform. This innovative tool seamlessly links together thousands of genomic datasets, aiming to uncover the fundamental origins of diseases and enhance the efficiency of drug target investigations within the field of metabolic conditions.</span>"
     url: "https://cmdga.org"
     btn_label: "The Common Metabolic Diseases Genome Atlas"
     btn_class: "btn--primary"
