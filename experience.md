@@ -13,20 +13,6 @@ feature_row0-1:
     url: "https://cmdga.org"
     btn_label: "The Common Metabolic Diseases Genome Atlas"
     btn_class: "btn--primary"
-    url: "https://github.com/T2DREAM"
-    btn_label: "Code"
-    btn_class: "btn--primary"
-    tags:
-        - Diabetes
-        - Obesity
-        - Cardiovascular Diseases
-        - Kidney Diseases
-        - Liver Diseases
-        - FNIH
-        - CMD Knowledge Portal 
-        - CMD Genome Atlas 
-
-feature_row0-2:
   - image_path: assets/images/lung.png
     alt: "Deciphering Lung Diseases at Single Cell Resolution"
     title: "Deciphering Lung Diseases at Single Cell Resolution (March 2020 - Present)"
@@ -34,12 +20,6 @@ feature_row0-2:
     url: "https://cmdga.org/consortium/ucsd-lungmap/"
     btn_label: "Lung Genome Browser"
     btn_class: "btn--primary"
-    tags:
-        - Single Cell Lung Atlas
-        - COVID-19
-        - Bronchopulmonary dysplasia
-
-feature_row0-3:
   - image_path: assets/images/echinobase.png
     alt: "Echinobase"
     title: "Echinobase (January 2011 - June 2017)"
@@ -47,11 +27,6 @@ feature_row0-3:
     url: "https://github.com/CCRGCALTECH"
     btn_label: "Code"
     btn_class: "btn--primary"
-    tags:
-        - Gene Regulator Network
-        - Echinoderms
-
-feature_row0-4:
   - image_path: assets/images/cloud.png
     alt: "Cloud Computing for Comparative Genomic"
     title: "Cloud Computing for Comparative Genomic (January 2008 - December 2010)"
@@ -59,13 +34,8 @@ feature_row0-4:
     url: "https://github.com/Parul-Kudtarkar/cloud-computing-genomics"
     btn_label: "Code"
     btn_class: "btn--primary"
-    tags:
-        - AWS
-        - Comparative Genomics
-        - Genome Alignment
----
-## Work Experince 
 
+---
 {% include feature_row id="feature_row0-1" type="left" %}
 <a name="Common Metabolic Diseases"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
@@ -73,4 +43,3 @@ feature_row0-4:
 {% include feature_row id="feature_row0-3" type="left" %}
 <a name="Echinobase"></a>
 {% include feature_row id="feature_row0-4" type="left" %}
-<a name="Cloud Computing for Comparative Genomic"></a>
