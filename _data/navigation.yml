@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
   - title: "Experience"
     url: /experience/
+  - title: "Publications"
+    url: /publications/
   - title: "Invited Talks"
     url: https://parul-kudtarkar.github.io
   - title: "Artworks"
