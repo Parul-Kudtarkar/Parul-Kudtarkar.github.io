@@ -14,6 +14,7 @@ feature_row0-1:
     btn_label: "The Common Metabolic Diseases Genome Atlas"
     btn_class: "btn--primary"
     image_size: 70%
+
 feature_row0-2:
   - image_path: assets/images/lung.png
     alt: "Deciphering Lung Diseases at Single Cell Resolution"
@@ -23,6 +24,7 @@ feature_row0-2:
     btn_label: "Lung Genome Browser"
     btn_class: "btn--primary"
     image_size: 70%
+
 feature_row0-3:    
   - image_path: assets/images/echinobase.png
     alt: "Echinobase"
@@ -32,6 +34,7 @@ feature_row0-3:
     btn_label: "Code"
     btn_class: "btn--primary"
     image_size: 70%
+
 feature_row0-4:    
   - image_path: assets/images/cloud.png
     alt: "Cloud Computing for Comparative Genomic"
@@ -41,30 +44,32 @@ feature_row0-4:
     btn_label: "Code"
     btn_class: "btn--primary"
     image_size: 70%
+
 feature_row0-5:    
   - image_path: assets/images/neu.png
     alt: "neu"
-    excerpt:<ul><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internship: Intelligent Medical Devices, Cambridge, MA (2007)
-</li>
-            
+    excerpt: "<ul><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>"
+
 feature_row0-6:    
   - image_path: assets/images/mu.png
     alt: "mu"
     image_size: 70%
-    excerpt:<ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)
-</li>
+    excerpt: "<ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>"
 
 feature_row0-7:    
-  - excerpt:<ul><li>MBA Certification, Rady School of Management, USA (2019)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills 
-</li>
+  - excerpt: "<ul><li>MBA Certification, Rady School of Management, USA (2019)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>"
 
 ---
-###Experience
+
+### Experience
+
 {% include feature_row id="feature_row0-1" type="left" %}
 {% include feature_row id="feature_row0-2" type="left" %}
 {% include feature_row id="feature_row0-3" type="left" %}
 {% include feature_row id="feature_row0-4" type="left" %}
-###Education
+
+### Education
+
 {% include feature_row id="feature_row0-5" type="left" %}
 {% include feature_row id="feature_row0-6" type="left" %}
 {% include feature_row id="feature_row0-7" type="left" %}
