@@ -2,10 +2,8 @@
 layout: single
 title: "Experience"
 permalink: /experience/
-header:
 author_profile: true
 classes: wide
-date: June 18, 2023
 
 feature_row0-1:
   - image_path: assets/images/cmdga.png
