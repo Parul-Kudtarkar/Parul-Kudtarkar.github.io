@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Artworks"
 header:
   image: /assets/images/exhibit.jpg
@@ -13,8 +13,8 @@ gallery:
   - url: /assets/images/Swiss_Riveria.png
     image_path: assets/images/Swiss_Riveria.png
     alt: "Swiss_Riveria"
-  - url: /assets/images/Lavande_en_ Provence.jpg
-    image_path: assets/images/Lavande_en_ Provence.jpg
+  - url: /assets/images/Lavande_en_Provence.jpg
+    image_path: assets/images/Lavande_en_Provence.jpg
     alt: "Lavande_en_ Provence"
 ---
 {% include gallery %}
