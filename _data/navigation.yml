@@ -5,8 +5,6 @@ main:
   - title: "Invited Talks"
     url: https://parul-kudtarkar.github.io
   - title: "Experience"
-    url:/experience/
+    url: /experience/
   - title: "Artworks"
     url: https://parul-kudtarkar.github.io
-  # - title: "Sitemap"
-  #   url: /sitemap/
