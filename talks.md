@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Invited Talks & Poster Presentations"
+title: ""
 ---
 ### Invited Talks
 <ul>
