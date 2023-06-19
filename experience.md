@@ -46,18 +46,13 @@ feature_row0-4:
     image_size: 70%
 
 feature_row0-5:    
-  - image_path: assets/images/neu.png
-    alt: "neu"
-    excerpt: "<ul><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>"
+  - excerpt: "<ul style='font-size: 1.5em;'><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>"
 
 feature_row0-6:    
-  - image_path: assets/images/mu.png
-    alt: "mu"
-    image_size: 70%
-    excerpt: "<ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>"
+  - excerpt: "<ul style='font-size: 1.5em;'><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000-2004)<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management , Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>"
 
 feature_row0-7:    
-  - excerpt: "<ul><li>MBA Certification, Rady School of Management, USA (2019)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>"
+  - excerpt: "<ul style='font-size: 1.5em;'><li>MBA Certification, Rady School of Management, USA (2019)<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>"
 
 ---
 
