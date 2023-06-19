@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Artworks"
 header:
   image: /assets/images/exhibit.jpg
