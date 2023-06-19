@@ -1,22 +1,23 @@
 ---
+layout: splash
 title: "Artworks"
 header:
   image: /assets/images/exhibit.jpg
 gallery:
-  - url: /assets/images/Grecian_Dreams.jpegg
+  - url: /assets/images/Grecian_Dreams.jpeg
     image_path: assets/images/Grecian_Dreams.jpeg
     alt: "Grecian_Dreams.jpeg"
   - url: /assets/images/California_wine.JPG
     image_path: assets/images/California_wine.JPG
     alt: "California_wine"
-  - url: /assets/images/Swiss_Riveria.PNG
-    image_path: assets/images/Swiss_Riveria.PNG
+  - url: /assets/images/Swiss_Riveria.png
+    image_path: assets/images/Swiss_Riveria.png
     alt: "Swiss_Riveria"
   - url: /assets/images/Lavande_en_ Provence.jpg
     image_path: assets/images/Lavande_en_ Provence.jpg
     alt: "Lavande_en_ Provence"
 ---
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery %}
 Through my artwork, I aim to transform analytical thinking into creative expression. Drawing inspiration from my extensive travels, most of my paintings are inspired by the places I have visited. As an aspiring painter, I draw inspiration from art guide books, incorporating their images and techniques into my artwork. This approach enables me to give life to my own distinct interpretation and style, despite being a novice in the field of painting.
 
 ### Exhibitions
