@@ -1,5 +1,4 @@
 ---
-layout: single
 title: ""
 toc: true
 toc_label: "Experience"
