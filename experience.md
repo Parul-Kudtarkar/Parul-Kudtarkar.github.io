@@ -1,7 +1,6 @@
 ---
+layout: single
 title: ""
-toc: true
-toc_label: "Experience"
 permalink: /experience/
 author_profile: true
 classes: wide
