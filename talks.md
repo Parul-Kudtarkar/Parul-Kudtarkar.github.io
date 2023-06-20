@@ -30,7 +30,7 @@ gallery2:
 <li>P. Kudtarkar, A. Moriondo. Gene Expression integration and representation in the CMDGA/KP. Accelerating Medicines Partnership Common Metabolic Diseases Parliament Meeting (2023)</li>
 </ul>
 ### Poster Presentations
-{% include gallery id="gallery2" class="full" %}
+{% include gallery id="gallery2" class="half" %}
 <ul>
 <li>C Franco, M Sweredoski, P Kudtarkar, R Cameron, S Hess. Proteomics approach to study neuronal regeneration events of the sequenced sea star Patiria miniate. The FASEB Journal 28 153.7 (2014)</li>
 <li>Y. Sun, P Kudtarkar, S. Morabito, K Gaulton. Type 2 diabetes epigenome data repository and resource. American Society of Human Genetics Annual Meeting (2017)</li>
