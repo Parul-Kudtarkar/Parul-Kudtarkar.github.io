@@ -16,7 +16,7 @@ gallery2:
     alt: "talk"
     image_style: "width: 150%;"
   - url: /assets/images/poster.png
-    image_path: assets/images/poster.png
+    image_path: assets/images/poster2.png
     alt: "talk"
     image_style: "width: 150%;"
 ---
