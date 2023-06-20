@@ -15,13 +15,13 @@ gallery2:
     image_path: assets/images/poster.jpeg
     alt: "talk"
     image_style: "width: 150%;"
-  - url: /assets/images/poster.png
+  - url: /assets/images/poster2.png
     image_path: assets/images/poster2.png
     alt: "talk"
     image_style: "width: 150%;"
 ---
 ### Invited Talks
-{% include gallery id="gallery1" class="full" %}
+{% include gallery id="gallery1" class="half" %}
 <ul>
 <li>N. Burtt,M. Costanzo, K. Gaulton, P. Kudtarkar. Diabetes Epigenome Atlas (DGA) and T2D Knowledge Portal: connected and complementary resources for research on the genomics and genetic basis of T2D. Accelerating Medicine Partnership T2DKP Webinar Series (2019)</li>
 <li>P. Kudtarkar. Introducing the Common Metabolic Diseases Genome Atlas. Accelerating Medicine Partnership T2DKP Webinar Series (2021)</li>
@@ -30,7 +30,7 @@ gallery2:
 <li>P. Kudtarkar, A. Moriondo. Gene Expression integration and representation in the CMDGA/KP. Accelerating Medicines Partnership Common Metabolic Diseases Parliament Meeting (2023)</li>
 </ul>
 ### Poster Presentations
-{% include gallery id="gallery2" class="half" %}
+{% include gallery id="gallery2" class="full" %}
 <ul>
 <li>C Franco, M Sweredoski, P Kudtarkar, R Cameron, S Hess. Proteomics approach to study neuronal regeneration events of the sequenced sea star Patiria miniate. The FASEB Journal 28 153.7 (2014)</li>
 <li>Y. Sun, P Kudtarkar, S. Morabito, K Gaulton. Type 2 diabetes epigenome data repository and resource. American Society of Human Genetics Annual Meeting (2017)</li>
