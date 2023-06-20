@@ -60,7 +60,7 @@ feature_row0-4:
 <ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000 - 2004)<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>
 <ul><li>MBA Certification, Rady School of Management, USA (2019)<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>
 
-### Reviewing experience
+### Reviewing Experience
 
 <ul><li>Journals: American Journal of Human Genetics, Bioinformatics, Evolutionary Bioinformatics, BMC Bioinformatics, PLOS Computational Biology, Faculty of 1000</li></ul>
 <ul><li>Conference Jury: Intel International Science and Engineering Fair. Computational Biology and Bioinformatics (2017)</li></ul>
