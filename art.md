@@ -18,6 +18,9 @@ gallery2:
   - url: /assets/images/Lavande_en_Provence.jpg
     image_path: assets/images/Lavande_en_Provence.jpg
     alt: "Lavande_en_ Provence"
+  - url: /assets/images/colors.jpg
+    image_path: assets/images/colors.jpg
+    alt: "colors"
 ---
 Through my artwork, I aim to transform analytical thinking into creative expression. Drawing inspiration from my extensive travels, most of my paintings are inspired by the places I have visited. As an aspiring painter, I draw inspiration from art guide books, incorporating their images and techniques into my artwork. This approach enables me to give life to my own distinct interpretation and style, despite being a novice in the field of painting.
 
