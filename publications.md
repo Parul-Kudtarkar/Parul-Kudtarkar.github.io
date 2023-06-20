@@ -7,5 +7,5 @@ gallery1:
     alt: "talk"
     image_style: "width: 150%;"
 ---
-{% include gallery id="gallery1" class="full" caption="The Cell Metabolism cover image that accompanies the article illustrates how the T2DKP integrates multiple types of genetic and genomic data to provide insights that can be the building blocks for new therapeutics." %}
+{% include gallery id="gallery1" class="half" caption="The Cell Metabolism cover image that accompanies the article illustrates how the T2DKP integrates multiple types of genetic and genomic data to provide insights that can be the building blocks for new therapeutics." %}
 {% include publications style="mla" link=true %}

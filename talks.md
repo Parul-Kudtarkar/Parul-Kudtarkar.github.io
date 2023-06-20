@@ -21,7 +21,6 @@ gallery2:
     image_style: "width: 150%;"
 ---
 ### Invited Talks
-{% include gallery id="gallery2" class="half" %}
 <ul>
 <li>N. Burtt,M. Costanzo, K. Gaulton, P. Kudtarkar. Diabetes Epigenome Atlas (DGA) and T2D Knowledge Portal: connected and complementary resources for research on the genomics and genetic basis of T2D. Accelerating Medicine Partnership T2DKP Webinar Series (2019)</li>
 <li>P. Kudtarkar. Introducing the Common Metabolic Diseases Genome Atlas. Accelerating Medicine Partnership T2DKP Webinar Series (2021)</li>
