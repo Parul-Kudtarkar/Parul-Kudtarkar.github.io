@@ -6,6 +6,23 @@ gallery1:
     image_path: assets/images/talk.jpg
     alt: "talk"
     image_style: "width: 150%;"
+  - url: /assets/images/talk1.jpg
+    image_path: assets/images/talk1.jpg
+    alt: "talk"
+    image_style: "width: 150%;"
+  - url: /assets/images/talk2.png
+    image_path: assets/images/talk2.png
+    alt: "talk"
+    image_style: "width: 150%;"
+  - url: /assets/images/talk3.png
+    image_path: assets/images/talk3.png
+    alt: "talk"
+    image_style: "width: 150%;"
+  - url: /assets/images/amp.jpg
+    image_path: assets/images/amp.jpg
+    alt: "talk"
+    image_style: "width: 150%;"
+
 gallery2:
   - url: /assets/images/poster1.jpg
     image_path: assets/images/poster1.jpg
@@ -21,7 +38,7 @@ gallery2:
     image_style: "width: 150%;"
 ---
 ### Invited Talks
-{% include gallery id="gallery1" class="half" %}
+{% include gallery id="gallery1" class="full" %}
 <ul>
 <li>N. Burtt,M. Costanzo, K. Gaulton, P. Kudtarkar. Diabetes Epigenome Atlas (DGA) and T2D Knowledge Portal: connected and complementary resources for research on the genomics and genetic basis of T2D. Accelerating Medicine Partnership T2DKP Webinar Series (2019)</li>
 <li>P. Kudtarkar. Introducing the Common Metabolic Diseases Genome Atlas. Accelerating Medicine Partnership T2DKP Webinar Series (2021)</li>
