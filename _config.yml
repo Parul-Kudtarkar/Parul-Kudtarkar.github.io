@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sorting My DNA"
 description              : 
-url                      : Parul-Kudtarkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sortingmydna.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 splash_image             : "/assets/images/banner1.png"
@@ -99,8 +99,8 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : G-BKF2EKFF34
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
