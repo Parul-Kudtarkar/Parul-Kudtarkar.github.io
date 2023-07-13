@@ -22,8 +22,8 @@ gallery2:
 ---
 ### Invited Talks
 <ul>
-<li>N. Burtt,M. Costanzo, K. Gaulton, P. Kudtarkar. Diabetes Epigenome Atlas (DGA) and T2D Knowledge Portal: connected and complementary resources for research on the genomics and genetic basis of T2D. Accelerating Medicine Partnership T2DKP Webinar Series (2019)</li>
-<li>P. Kudtarkar. Introducing the Common Metabolic Diseases Genome Atlas. Accelerating Medicine Partnership T2DKP Webinar Series (2021)</li>
+<li><a href="https://www.youtube.com/watch?v=zMHFSMkYNLk&pp=ygUPcGFydWwga3VkdGFya2Fy">N. Burtt,M. Costanzo, K. Gaulton, P. Kudtarkar. Diabetes Epigenome Atlas (DGA) and T2D Knowledge Portal: connected and complementary resources for research on the genomics and genetic basis of T2D. Accelerating Medicine Partnership T2DKP Webinar Series (2019)</a></li>
+<li><a href="https://www.youtube.com/watch?v=yS27LrzdF4c&t=1324s&pp=ygUPcGFydWwga3VkdGFya2Fy">P. Kudtarkar. Introducing the Common Metabolic Diseases Genome Atlas. Accelerating Medicine Partnership T2DKP Webinar Series (2021)</a></li>
 <li>P. Kudtarkar. Representing genomic perturbation studies in CMDGA. Accelerating Medicines Partnership Common Metabolic Diseases –  Leadership Conference (2022)</li>
 <li>N. Burtt, M. Miller, S. Grant,M. Costanzo, P. Kudtarkar. Accelerating Medicines Partnership Common Metabolic Diseases® (AMP-CMD) Ancillary Event (2022)</li>
 <li>P. Kudtarkar, A. Moriondo. Gene Expression integration and representation in the CMDGA/KP. Accelerating Medicines Partnership Common Metabolic Diseases Parliament Meeting (2023)</li>
