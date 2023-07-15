@@ -1,36 +1,20 @@
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-@keyframes move {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
+@keyframes moveBackground {
+  0% { background-position: 0 0; }
+  100% { background-position: 100% 0; }
 }
 
 .banner {
   width: 100%;
   height: 200px;
-  background-color: #f8f8f8;
+  background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+  background-size: 200% 100%;
+  animation: moveBackground 10s linear infinite;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
 }
 
-.dna {
-  width: 100px;
-  height: 100px;
-  background-image: linear-gradient(to right, red, blue);
-  border-radius: 50%;
-  position: absolute;
-  top: 50%;
-  left: 10px;
-  animation: rotate 5s linear infinite;
-}
-
-.h1 {
-  position: relative;
-  z-index: 1;
+h1 {
+  color: white;
   font-size: 24px;
 }
