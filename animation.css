@@ -27,7 +27,7 @@
 .header:before {
   content: "";
   width: 100%;
-  height: 100%;
+  height: 200%;
   position: absolute;
   top: 0;
   left: 0;
@@ -36,7 +36,7 @@
   backface-visibility: hidden;
   scale(1.0, 1.0);
   transform: translateZ(0);
-  background: #1B2030 url(./dna.jpeg) 50% 0 no-repeat;
+  background: #1B2030 url(./dna.jpeg) 100% 0 no-repeat;
   background-size: 100%;
   background-attachment: fixed;
   animation: grow 360s linear 10ms infinite;
