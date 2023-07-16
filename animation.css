@@ -7,7 +7,7 @@
   align-items: flex-start;
   align-content: flex-start;
   height: 50vw;
-  min-height: 400px;
+  min-height: 250px;
   max-height: 550px;
   min-width: 300px;
   color: #eee;
@@ -36,7 +36,7 @@
   backface-visibility: hidden;
   scale(1.0, 1.0);
   transform: translateZ(0);
-  background: #1B2030 url(./dna.jpeg) 100% 0 no-repeat;
+  background: linear-gradient(45deg, #1d2c3b, #E6E6FA, #0000FF) url(./dna.jpeg) 100% 0 no-repeat;
   background-size: 100%;
   background-attachment: fixed;
   animation: grow 360s linear 10ms infinite;
@@ -65,7 +65,7 @@
 }
 .info h1,
 .meta {
-  font-size: 4em;
+  font-size: 3.5em;
 }
 
 .meta {
