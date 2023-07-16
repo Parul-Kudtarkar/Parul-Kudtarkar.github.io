@@ -36,7 +36,9 @@
   backface-visibility: hidden;
   scale(1.0, 1.0);
   transform: translateZ(0);
-  background: #1d2c3b url(./dna.jpeg) 100% 0 repeat-y;
+  background: #1d2c3b;
+  background-image: url(./dna.jpeg);
+  background-repeat: repeat-y;
   background-size: 100%;
   background-attachment: fixed;
   animation: grow 360s linear 10ms infinite;
