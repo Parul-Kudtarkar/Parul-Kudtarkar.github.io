@@ -3,13 +3,19 @@
   100% { background-position: 100% 100%; }
 }
 
+@keyframes increaseSize {
+  0% { font-size: 38px; opacity: 0; }
+  100% { font-size: 72px; opacity: 1; }
+}
+
 .banner {
   width: 100%;
   height: 200px;
-  background: linear-gradient(45deg, #FFC0CB, #E6E6FA, #0000FF);
+  background: linear-gradient(45deg, #8bc1d5, #E6E6FA, #0000FF);
   background-size: 200% 200%;
   animation: moveBackground 5s linear infinite;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -17,4 +23,18 @@
 h1 {
   color: white;
   font-size: 38px;
+  animation: increaseSize 2s ease-in-out forwards;
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+  opacity: 0;
+  animation: appear 2s ease-in-out forwards;
+  animation-delay: 2s;
+}
+
+@keyframes appear {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
