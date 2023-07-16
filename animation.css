@@ -81,23 +81,4 @@
   }
 }
 
-.content {
-  padding: 5% 10%;
-  text-align: justify;
-}
-
-.btn {
-  color: #333;
-  border: 2px solid;
-  border-radius: 3px;
-  text-decoration: none;
-  display: inline-block;
-  padding: 5px 10px;
-  font-weight: 600;
-}
-
-/* Faster transition */
-.header:before {
-  transition: all 0.1s ease-in-out;
-}
 
