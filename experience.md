@@ -56,11 +56,11 @@ feature_row0-4:
 
 ### Education
 
-<ul><li>Master of Science, Bioinformatics, Northeastern University, USA (2006 - 2009)<br/>Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Internship: Intelligent Medical Devices, Cambridge, MA (2007)</li></ul>
-<ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai (2000 - 2004)<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India (2003, 2005 - 2006)</li></ul>
-<ul><li>MBA Certification, Rady School of Management, USA (2019)<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>
+<ul><li>Master of Science, Bioinformatics, Northeastern University, USA<br/>Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<br/>Internship: Intelligent Medical Devices, Cambridge, MA</li></ul>
+<ul><li>Bachelor of Engineering, Biomedical Engineering, University of Mumbai, India<br/>Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management<br/>Work Experience: Jaslok Hospital and Research Center, Mumbai, India</li></ul>
+<ul><li>MBA Certification, Rady School of Management, USA<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>
 
 ### Reviewing Experience
 
 <ul><li><a href="https://www.cell.com/AJHG/home">Journals: American Journal of Human Genetics</a>, <a href="https://academic.oup.com/bioinformatics/">Bioinformatics</a>, <a href="https://journals.sagepub.com/home/evb">Evolutionary Bioinformatics</a>, <a href="https://bmcbioinformatics.biomedcentral.com/">BMC Bioinformatics</a>, <a href="https://journals.plos.org/ploscompbiol/">PLOS Computational Biology</a>, <a href="https://f1000.com/">Faculty of 1000</a></li></ul>
-<ul><li>Conference Jury: Intel International Science and Engineering Fair. Computational Biology and Bioinformatics (2017)</li></ul>
+<ul><li>Conference Jury: Intel International Science and Engineering Fair. Computational Biology and Bioinformatics</li></ul>
