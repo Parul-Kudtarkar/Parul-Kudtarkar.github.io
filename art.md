@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Artworks"
+excerpt: "A Gallery of Creative Expressions"
 header:
-  image: /assets/images/exhibit.jpg
+  image: /assets/images/art_gallery.jpeg
 gallery1:
   - url: /assets/images/Grecian_Dreams.jpeg
     image_path: assets/images/Grecian_Dreams.jpeg
