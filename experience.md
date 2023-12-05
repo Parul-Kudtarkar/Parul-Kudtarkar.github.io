@@ -61,6 +61,6 @@ feature_row0-4:
 <ul><li>MBA Certification, Rady School of Management, USA<br/>Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</li></ul>
 
 ### Reviewing Experience
-
+<ul><li>Editorial board: Database: The Journal of Biological Databases and Curation</li></ul>
 <ul><li><a href="https://www.cell.com/AJHG/home">Journals: American Journal of Human Genetics</a>, <a href="https://academic.oup.com/bioinformatics/">Bioinformatics</a>, <a href="https://journals.sagepub.com/home/evb">Evolutionary Bioinformatics</a>, <a href="https://bmcbioinformatics.biomedcentral.com/">BMC Bioinformatics</a>, <a href="https://journals.plos.org/ploscompbiol/">PLOS Computational Biology</a>, <a href="https://f1000.com/">Faculty of 1000</a></li></ul>
 <ul><li>Conference Jury: Intel International Science and Engineering Fair. Computational Biology and Bioinformatics</li></ul>
