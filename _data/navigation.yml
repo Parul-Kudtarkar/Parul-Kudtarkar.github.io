@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Experience"
-    url: /experience/
   - title: "Publications"
     url: /publications/
   - title: "Invited Talks"
