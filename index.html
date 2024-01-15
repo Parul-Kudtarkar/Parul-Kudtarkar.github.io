@@ -35,15 +35,24 @@ feature_row0-1:
     btn_class: "btn--primary"
     image_size: 60%
 ---
+<style>
+  .two-columns {
+  display: flex;
+  flex-wrap: wrap;
+  }
+  .two-columns > div {
+  flex: 50%; /* Adjust this value as needed */
+  box-sizing: border-box;
+  }
+</style>
 <head>
   <link rel="stylesheet" type="text/css" href="animation.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <div class="header">
   <div class="info">
-    <h1>Sorting My DNA</h1>
     <div class="meta">
-      <a href="https://sortingmydna.com/experience/" target="_b" class="author"></a><br>
+      <a href="https://sortingmydna.com" target="_b" class="author"></a><br>
       <!-- Audio player for name pronunciation -->
       <div>
       <h8>Hi! I'm Parul Kudtarkar </h8> <i class="fas fa-volume-up" style="color: white;"></i>
@@ -66,10 +75,12 @@ feature_row0-1:
   In my personal life, I am an <a href="https://www.instagram.com/parulkudtarkar/">avid runner and a travel enthusiast</a>. During my leisure time, I engage in <a href="https://sortingmydna.com/art/">painting</a> as a creative outlet.  I have a keen interest in environmental philanthropy, specifically centered around causes like <a href="https://protect.worldwildlife.org">wildlife preservation and forest conservation</a>. I also enjoy preparing healthy and fun meals for my family and friends.
 </p>
 <h2 style="text-align: center;">Experience</h2>
-{% include feature_row id="feature_row0-1" type="center" class="full" %}
+<div class="two-columns">
+  {% include feature_row id="feature_row0-1" type="center" class="full" %}
+</div>  
 <h2 style="text-align: center;">Education</h2>
   <h6 style="text-align: center;">Master of Science, Bioinformatics, Northeastern University, USA</h6>
-  <p style="text-align: center;">Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<p/><p style="text-align: center;">Internship: Intelligent Medical Devices, Cambridge, MA</p>
+  <div style="text-align: center;">Courses: Biochemistry, Cellular & Molecular Biology, Bioinformatics Programming, Bioinformatics Seminar, Bio‐ethics, Database Management, Genome and Proteome Analysis, Imaging for Drug Discovery<div/><div style="text-align: center;">Internship: Intelligent Medical Devices, Cambridge, MA</div>
 <h6 style="text-align: center;">Bachelor of Engineering, Biomedical Engineering, University of Mumbai, India</h6><p style="text-align: center;">Courses: Statistics, Human Anatomy and Physiology, Medical Instrumentation, Embedded Systems, Digital Image Processing, Nuclear Medicine, Hospital Management<p/><p style="text-align: center;">Work Experience: Jaslok Hospital and Research Center, Mumbai, India</p>
 <h6 style="text-align: center;">MBA Certification, Rady School of Management, USA</h6><p style="text-align: center;">Courses: Business operations and strategy, innovation and venture creation, and leadership decision-making skills</p>
 
