@@ -91,7 +91,7 @@
   overflow: hidden;
 
   img {
-    width: 50%;
+    width: 30%;
   }
 }
 
@@ -248,13 +248,14 @@
     margin-bottom: 2em;
     font-size: 1.125em;
 
-    @include breakpoint($small) {
-        float: left; // Make the items float next to each other
-        width: 50%; // Each item takes up half of the container width
+    &--center {
+        @include breakpoint($small) {
+            float: left; // Elements float next to each other
+            width: 50%; // Each item occupies half of the container's width
+        }
     }
 
     .feature__item-teaser, .archive__item-body {
-        // These will stack vertically by default
         max-height: 200px;
         overflow: hidden;
     }
