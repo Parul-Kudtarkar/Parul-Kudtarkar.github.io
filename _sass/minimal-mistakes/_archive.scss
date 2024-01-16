@@ -241,10 +241,6 @@
     @include clearfix();
     margin-bottom: 2em;
     border-bottom: 1px solid $border-color;
-
-    .archive__item-title {
-        margin-bottom: 0;
-    }
 }
 
 .feature__item {
@@ -253,56 +249,14 @@
     font-size: 1.125em;
 
     @include breakpoint($small) {
-        float: left;
-        margin-bottom: 0;
-        width: span(6 of 12); // Adjusted for two columns
+        float: left; // Make the items float next to each other
+        width: 50%; // Each item takes up half of the container width
     }
 
-    .feature__item-teaser {
+    .feature__item-teaser, .archive__item-body {
+        // These will stack vertically by default
         max-height: 200px;
         overflow: hidden;
-    }
-
-    // Nested --left, --right, and --center modifiers
-    &--left, &--right, &--center {
-        position: relative;
-        float: left;
-        margin-left: 0;
-        margin-right: 0;
-        width: 100%;
-        clear: both;
-        font-size: 1.125em;
-
-        .archive__item {
-            float: left;
-        }
-
-        .archive__item-teaser {
-            margin-bottom: 2em;
-        }
-
-        a.btn::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            right: 0;
-            bottom: 0;
-        }
-
-        @include breakpoint($small) {
-            .archive__item-teaser {
-                float: left;
-                width: span(5 of 12);
-            }
-
-            .archive__item-body {
-                float: right;
-                padding-left: gutter(0.5 of 12);
-                padding-right: gutter(1 of 12);
-                width: span(7 of 12);
-            }
-        }
     }
 }
 
