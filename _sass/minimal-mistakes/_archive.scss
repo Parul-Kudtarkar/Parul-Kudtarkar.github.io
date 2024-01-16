@@ -305,7 +305,7 @@ a.btn::before {
 .feature__wrapper_original {
   @include clearfix();
   margin-bottom: 2em;
-
+  text-align: center;
   .archive__item-title {
     margin-bottom: 0;
   }
