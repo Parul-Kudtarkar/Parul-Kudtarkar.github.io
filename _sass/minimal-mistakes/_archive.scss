@@ -95,6 +95,15 @@
     width: 30%;
   }
 }
+.archive__item-teaser-original {
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 60%;
+  }
+}
 
 .archive__item-caption {
   position: absolute;
